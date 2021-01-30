@@ -1,3 +1,8 @@
+//pattern special
+//a b c d e
+//  f g h
+//    i
+//this type of pattern printing
 #include<stdio.h>
 int main()
 {
